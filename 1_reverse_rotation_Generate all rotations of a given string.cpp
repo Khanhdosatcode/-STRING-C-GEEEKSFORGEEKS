@@ -26,7 +26,7 @@ using namespace std;
 //	string s1="";
 //	for(int i=0;i<S.size();i++) {
 //		index=i;
-//		s1+=S.substr(index,S.size());
+//		s1+=S.substr(index,S.size()-i);
 //		s1+=S.substr(0,index);
 //		cout<<s1<<" ";	
 //		s1="";
